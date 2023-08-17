@@ -1,12 +1,12 @@
 # Movie-Search
 
-#USER STORY
+# USER STORY
  
 AS an indecisive person
 I WANT to quickly and easily find movies online
 SO THAT I don't have to spend hours looking for "the right" movie. 
  
-#ACCEPTANCE TEST FOR USER STORY
+# ACCEPTANCE Criteria
  
 GIVEN sets of movies filters to pick from
 WHEN I select a filter
